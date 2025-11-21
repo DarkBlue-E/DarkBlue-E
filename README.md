@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1>#🏄‍♂️ DarkBlue-E</h1> 
+
+**`Cybersecuity Engineer`**
+
+A cybersecurity enthusiast who is passionate about making cyberspace more secure, one day at a time. My projects are all built from the ground up, from planning and designing all the way to solving real life problems.
+
+---
+
+<h3 style="color: #FF0000;">Language and tools</h3> 
 
 <!--
 **DarkBlue-E/DarkBlue-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
