@@ -61,7 +61,7 @@
 ![DarkBlue-E GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkBlue-E&show_icons=true&theme=gruvbox)
 </details>
 
----
+<h1></h1>
 <!--Cybersecurity Journey -->
 <h3></h3>
 <details>
