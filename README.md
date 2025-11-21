@@ -6,7 +6,10 @@ A cybersecurity enthusiast who is passionate about making cyberspace more secure
 
 ---
 
-<h3 style="color: #FF0000;">Language and tools</h3> 
+<details>
+<summary><h3>DarkBlue-E Cybersecurity Journey</h3></summary>
+    FFF
+  
 
 <!--
 **DarkBlue-E/DarkBlue-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
