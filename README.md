@@ -3,7 +3,7 @@
 
 <h1>#🏄‍♂️ DarkBlue-E</h1> 
 
-**`Cybersecuity Engineer`**
+**`Aspiring Purple Team Operator`**
 
 
 
@@ -14,7 +14,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=10000&center=true&vCenter=true&random=true&width=600&lines=Cybersecurity+Student;Building+Skills+Daily" /></a>
 
- A cybersecurity enthusiast who is passionate about making cyberspace more secure, one day at a time. My projects are all built from the ground up, from planning and designing all the way to solving real life problems.
+ My name is Paul Duncanson. As an aspiring cybersecurity purple team operator who is passionate about making cyberspace more secure, my projects are all built from the ground up, from planning and designing all the way to solving real life problems.
 
 </p>
 
@@ -28,7 +28,7 @@
 
 ---
 <!-- Top Repositories-->
-<details>
+<details open>
 <summary><h3 style="color: #ffffffff;">📔 My Top Repositories</h3></summary>
 
 <p align="left">
