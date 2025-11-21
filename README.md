@@ -2,7 +2,10 @@
 
 **`Cybersecuity Engineer`**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&width=435&lines=Hello+friend)](https://git.io/typing-svg)
+
 A cybersecurity enthusiast who is passionate about making cyberspace more secure, one day at a time. My projects are all built from the ground up, from planning and designing all the way to solving real life problems.
+
 
 ---
 
